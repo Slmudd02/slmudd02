@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Slmudd02
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python lo
+- 🌱 I’m currently learning Python lol
 
 <!---
 Slmudd02/Slmudd02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
