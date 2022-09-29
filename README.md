@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Slmudd02
+- 👋 Hi, I’m Shala
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python 
 
